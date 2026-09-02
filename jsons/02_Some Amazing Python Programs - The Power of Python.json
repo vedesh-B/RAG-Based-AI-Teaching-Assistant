@@ -1,0 +1,1118 @@
+{
+    "chunks": [
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 0.0,
+            "end": 3.0,
+            "text": " Welcome back to 100 days of code"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 3.0,
+            "end": 6.0,
+            "text": " Today I want to tell you a story of my personal life"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 6.0,
+            "end": 10.0,
+            "text": " When I was in second year of college, I knew CC++ very well"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 10.0,
+            "end": 14.0,
+            "text": " I was coding, I knew coding, I knew HTML"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 14.0,
+            "end": 18.0,
+            "text": " But I was not able to work in any industry"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 18.0,
+            "end": 21.0,
+            "text": " I was not able to get any CC++ project"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 21.0,
+            "end": 24.0,
+            "text": " I am not saying that CC++ is a bad programming language"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 24.0,
+            "end": 28.0,
+            "text": " I have made a lot of conditional related programs with the help of C++"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 28.0,
+            "end": 31.0,
+            "text": " I have done a lot of work, I have made a great calculator"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 31.0,
+            "end": 34.0,
+            "text": " But I was not able to work in any industry"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 34.0,
+            "end": 37.0,
+            "text": " When I was introduced to Python, I did web scraping"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 37.0,
+            "end": 40.0,
+            "text": " I made GUIs, I made applications of Plask"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 40.0,
+            "end": 43.0,
+            "text": " I did a lot of freelancing"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 43.0,
+            "end": 46.0,
+            "text": " And I consider Python as a language"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 46.0,
+            "end": 49.0,
+            "text": " Which has actually told me the use of programming"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 49.0,
+            "end": 52.0,
+            "text": " Why do we give so much value to programming in the industry"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 52.0,
+            "end": 55.0,
+            "text": " And why is programming used so much in the industry"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 55.0,
+            "end": 58.0,
+            "text": " In today's video, I am going to show you some programs"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 58.0,
+            "end": 61.0,
+            "text": " Which will make you feel very happy"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 61.0,
+            "end": 64.0,
+            "text": " You will also say that you have enjoyed watching these programs"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 64.0,
+            "end": 67.0,
+            "text": " Because after watching those programs, you will understand the actual use"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 67.0,
+            "end": 70.0,
+            "text": " What is programming, why programming is used"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 70.0,
+            "end": 73.0,
+            "text": " I will tell you about 5 programs today"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 73.0,
+            "end": 76.0,
+            "text": " And you will also enjoy watching those programs"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 76.0,
+            "end": 79.0,
+            "text": " One of them is Jarvis Virtual Assistant"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 79.0,
+            "end": 82.0,
+            "text": " Which runs on your map, it shows you the commands you say"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 82.0,
+            "end": 85.0,
+            "text": " It shows you the commands you give"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 85.0,
+            "end": 88.0,
+            "text": " The purpose of making this course of 100 days of code"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 88.0,
+            "end": 91.0,
+            "text": " Is that there are a lot of new things in Python"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 91.0,
+            "end": 94.0,
+            "text": " There are a lot of new approaches which I want to tell you"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 94.0,
+            "end": 97.0,
+            "text": " And this brand new course will touch all those things"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 97.0,
+            "end": 100.0,
+            "text": " For example, there is a Valorous operator in Python"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 100.0,
+            "end": 103.0,
+            "text": " There are a lot of other additions, there are easy ways to do things"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 103.0,
+            "end": 106.0,
+            "text": " So we will cover all these things in this course"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 106.0,
+            "end": 109.0,
+            "text": " I will teach you Python in such a way that"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 109.0,
+            "end": 112.0,
+            "text": " You can run Python on your map"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 112.0,
+            "end": 115.0,
+            "text": " You can run Python on your map while programming"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 115.0,
+            "end": 118.0,
+            "text": " You can do whatever you want, so let's go to the showcase"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 118.0,
+            "end": 121.0,
+            "text": " And I will show you my programs which I made with the help of Python"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 121.0,
+            "end": 122.0,
+            "text": " Let's get started"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 131.0,
+            "end": 134.0,
+            "text": " So the first program I want to show you is"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 134.0,
+            "end": 137.0,
+            "text": " Jarvis Virtual Assistant"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 137.0,
+            "end": 140.0,
+            "text": " It takes your commands and after taking them"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 140.0,
+            "end": 143.0,
+            "text": " It does some work"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 156.0,
+            "end": 159.0,
+            "text": " As you can see, it has opened YouTube"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 159.0,
+            "end": 162.0,
+            "text": " So it is a very cool program, you give it commands"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 162.0,
+            "end": 165.0,
+            "text": " And it gives you the task"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 165.0,
+            "end": 168.0,
+            "text": " After this, the next program I want to show you"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 168.0,
+            "end": 171.0,
+            "text": " Is our Love Calculator"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 171.0,
+            "end": 174.0,
+            "text": " It is an amazing calculator"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 174.0,
+            "end": 177.0,
+            "text": " Which shows how much love there is in two people"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 177.0,
+            "end": 180.0,
+            "text": " Now obviously, it will not tell you accurately"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 180.0,
+            "end": 183.0,
+            "text": " How much love there is in you and your partner"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 183.0,
+            "end": 186.0,
+            "text": " So you all know it, but in a fun way"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 186.0,
+            "end": 189.0,
+            "text": " We have used a random module to make this program"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 189.0,
+            "end": 192.0,
+            "text": " If we put two names, it will tell us the love percentage"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 192.0,
+            "end": 195.0,
+            "text": " It will tell us how much love there is in two people"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 195.0,
+            "end": 198.0,
+            "text": " Let's try it out, I will put Harry in the name"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 198.0,
+            "end": 201.0,
+            "text": " And I will add Pyle in the partner name"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 201.0,
+            "end": 204.0,
+            "text": " And I will calculate 97%"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 204.0,
+            "end": 207.0,
+            "text": " Now let's say I write"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 207.0,
+            "end": 210.0,
+            "text": " Let's say I write Sanskrit"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 210.0,
+            "end": 213.0,
+            "text": " So I will write 03, 3%"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 213.0,
+            "end": 216.0,
+            "text": " So I should be away from Sanskrit girls"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 216.0,
+            "end": 219.0,
+            "text": " And I should be away from Harry"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 219.0,
+            "end": 222.0,
+            "text": " It is a fun calculator"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 222.0,
+            "end": 225.0,
+            "text": " I hope you will enjoy using it"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 225.0,
+            "end": 228.0,
+            "text": " The next program I want to show you is face recognition"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 228.0,
+            "end": 231.0,
+            "text": " Which uses the Harcascade algorithm"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 231.0,
+            "end": 234.0,
+            "text": " It tells you where the face is"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 234.0,
+            "end": 237.0,
+            "text": " It is a face detection algorithm"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 237.0,
+            "end": 240.0,
+            "text": " So in Robert Downey Jr's face"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 240.0,
+            "end": 243.0,
+            "text": " It will tell you where the face is hidden"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 243.0,
+            "end": 246.0,
+            "text": " So I will run it for 1.jpg file"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 246.0,
+            "end": 249.0,
+            "text": " You can run it on your favorite file"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 249.0,
+            "end": 252.0,
+            "text": " So I have run it"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 252.0,
+            "end": 255.0,
+            "text": " And after running it, it detected all the faces"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 255.0,
+            "end": 258.0,
+            "text": " So I can run it for different images"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 258.0,
+            "end": 261.0,
+            "text": " It doesn't have to work for one image"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 261.0,
+            "end": 264.0,
+            "text": " It is working for different images"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 264.0,
+            "end": 267.0,
+            "text": " It was a fun program to make"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 267.0,
+            "end": 270.0,
+            "text": " The next project is Flappy Bird Game"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 270.0,
+            "end": 273.0,
+            "text": " Which is probably someone who has not played this game"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 273.0,
+            "end": 276.0,
+            "text": " It is a very good game"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 276.0,
+            "end": 279.0,
+            "text": " We play it a lot on our phones"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 279.0,
+            "end": 282.0,
+            "text": " But you can play it on your computer"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 282.0,
+            "end": 285.0,
+            "text": " You can play it on your computer"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 285.0,
+            "end": 288.0,
+            "text": " I can play it"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 288.0,
+            "end": 291.0,
+            "text": " I am playing it"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 291.0,
+            "end": 294.0,
+            "text": " It will be fun to play it"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 294.0,
+            "end": 297.0,
+            "text": " So the 5th, last but not the least"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 297.0,
+            "end": 300.0,
+            "text": " I have made a lot of projects"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 300.0,
+            "end": 303.0,
+            "text": " I will show you how to make a snake game"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 303.0,
+            "end": 306.0,
+            "text": " As you can see"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 306.0,
+            "end": 309.0,
+            "text": " It is black snake with red food"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 309.0,
+            "end": 312.0,
+            "text": " I can make it better"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 312.0,
+            "end": 315.0,
+            "text": " I made logic here"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 315.0,
+            "end": 318.0,
+            "text": " I am playing it"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 318.0,
+            "end": 321.0,
+            "text": " I will break the high score of 90"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 321.0,
+            "end": 324.0,
+            "text": " I can make a lot of scores"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 324.0,
+            "end": 327.0,
+            "text": " I am a very hardcore gamer"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 327.0,
+            "end": 330.0,
+            "text": " I have made a score of 90"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 330.0,
+            "end": 333.0,
+            "text": " I hope I don't get out"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 333.0,
+            "end": 336.0,
+            "text": " I made a score of 100"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 336.0,
+            "end": 339.0,
+            "text": " It is fun to play a game made by your hands"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 339.0,
+            "end": 342.0,
+            "text": " I just want to tell you"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 342.0,
+            "end": 345.0,
+            "text": " In the upcoming videos, I will tell you"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 345.0,
+            "end": 348.0,
+            "text": " I will tell you the things I am going to do"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 348.0,
+            "end": 351.0,
+            "text": " And it will be fun for you"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 351.0,
+            "end": 354.0,
+            "text": " Because we will not only make these projects"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 354.0,
+            "end": 357.0,
+            "text": " But we will convert them into reality"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 357.0,
+            "end": 360.0,
+            "text": " I am going to give you all these codes"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 360.0,
+            "end": 363.0,
+            "text": " I want you to run all these codes"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 363.0,
+            "end": 366.0,
+            "text": " Run them or not"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 366.0,
+            "end": 369.0,
+            "text": " But run them"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 369.0,
+            "end": 372.0,
+            "text": " All the modules I have imported"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 372.0,
+            "end": 375.0,
+            "text": " You have to install them with pip"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 375.0,
+            "end": 378.0,
+            "text": " If not now, then we will go to modules"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 378.0,
+            "end": 381.0,
+            "text": " Install pip and run them again"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 381.0,
+            "end": 384.0,
+            "text": " You will not have any problem in running them"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 384.0,
+            "end": 387.0,
+            "text": " If you have any problem, then we will gradually progress"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 387.0,
+            "end": 390.0,
+            "text": " You have to come back to this program"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 390.0,
+            "end": 393.0,
+            "text": " And see what was the mistake"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 393.0,
+            "end": 396.0,
+            "text": " Can I fix it or run it again"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 396.0,
+            "end": 399.0,
+            "text": " It is not like you have to do everything in this video"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 399.0,
+            "end": 402.0,
+            "text": " I hope you will enjoy these 500 programs"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 402.0,
+            "end": 405.0,
+            "text": " Keep them with you"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 405.0,
+            "end": 408.0,
+            "text": " As we will learn more things"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 408.0,
+            "end": 411.0,
+            "text": " I am giving you all these programs"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 411.0,
+            "end": 414.0,
+            "text": " All the programs"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 414.0,
+            "end": 417.0,
+            "text": " Which I have shown you"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 417.0,
+            "end": 420.0,
+            "text": " They are available here"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 420.0,
+            "end": 423.0,
+            "text": " You can run them on your machine"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 423.0,
+            "end": 426.0,
+            "text": " And you will enjoy it"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 426.0,
+            "end": 429.0,
+            "text": " Some of them are using windows api"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 429.0,
+            "end": 432.0,
+            "text": " You can run it in mac or linux"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 432.0,
+            "end": 435.0,
+            "text": " But we will do this when we go further"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 435.0,
+            "end": 438.0,
+            "text": " I will tell you all these programs"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 438.0,
+            "end": 441.0,
+            "text": " You will enjoy them"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 441.0,
+            "end": 444.0,
+            "text": " But don't try to recreate them"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 444.0,
+            "end": 447.0,
+            "text": " Don't think that you have learned so much"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 447.0,
+            "end": 450.0,
+            "text": " And you want to change them"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 450.0,
+            "end": 453.0,
+            "text": " You will get a little frustration"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 453.0,
+            "end": 456.0,
+            "text": " Because you will try to do things you don't know"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 456.0,
+            "end": 459.0,
+            "text": " So we will make all these programs"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 459.0,
+            "end": 462.0,
+            "text": " I will show you all"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 462.0,
+            "end": 465.0,
+            "text": " Keep this journey going"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 465.0,
+            "end": 468.0,
+            "text": " You will enjoy it"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 468.0,
+            "end": 471.0,
+            "text": " You will get the link to this program in the description"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 471.0,
+            "end": 474.0,
+            "text": " One more thing I want to tell you"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 474.0,
+            "end": 477.0,
+            "text": " If you haven't accessed the Python 100 days of Goat playlist"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 477.0,
+            "end": 480.0,
+            "text": " Then you can access it now"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 480.0,
+            "end": 483.0,
+            "text": " Because there will be a lot of videos in this playlist"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 483.0,
+            "end": 486.0,
+            "text": " If you don't bookmark this playlist"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 486.0,
+            "end": 489.0,
+            "text": " Then you might miss some days"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 489.0,
+            "end": 492.0,
+            "text": " So bookmark it"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 492.0,
+            "end": 495.0,
+            "text": " We will do a lot of fun things in the coming days"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 495.0,
+            "end": 498.0,
+            "text": " Till then take care of yourself"
+        },
+        {
+            "number": "2",
+            "title": "Some Amazing Python Programs - The Power of Python",
+            "start": 498.0,
+            "end": 501.0,
+            "text": " And I will see you next time"
+        }
+    ],
+    "text": " Welcome back to 100 days of code Today I want to tell you a story of my personal life When I was in second year of college, I knew CC++ very well I was coding, I knew coding, I knew HTML But I was not able to work in any industry I was not able to get any CC++ project I am not saying that CC++ is a bad programming language I have made a lot of conditional related programs with the help of C++ I have done a lot of work, I have made a great calculator But I was not able to work in any industry When I was introduced to Python, I did web scraping I made GUIs, I made applications of Plask I did a lot of freelancing And I consider Python as a language Which has actually told me the use of programming Why do we give so much value to programming in the industry And why is programming used so much in the industry In today's video, I am going to show you some programs Which will make you feel very happy You will also say that you have enjoyed watching these programs Because after watching those programs, you will understand the actual use What is programming, why programming is used I will tell you about 5 programs today And you will also enjoy watching those programs One of them is Jarvis Virtual Assistant Which runs on your map, it shows you the commands you say It shows you the commands you give The purpose of making this course of 100 days of code Is that there are a lot of new things in Python There are a lot of new approaches which I want to tell you And this brand new course will touch all those things For example, there is a Valorous operator in Python There are a lot of other additions, there are easy ways to do things So we will cover all these things in this course I will teach you Python in such a way that You can run Python on your map You can run Python on your map while programming You can do whatever you want, so let's go to the showcase And I will show you my programs which I made with the help of Python Let's get started So the first program I want to show you is Jarvis Virtual Assistant It takes your commands and after taking them It does some work As you can see, it has opened YouTube So it is a very cool program, you give it commands And it gives you the task After this, the next program I want to show you Is our Love Calculator It is an amazing calculator Which shows how much love there is in two people Now obviously, it will not tell you accurately How much love there is in you and your partner So you all know it, but in a fun way We have used a random module to make this program If we put two names, it will tell us the love percentage It will tell us how much love there is in two people Let's try it out, I will put Harry in the name And I will add Pyle in the partner name And I will calculate 97% Now let's say I write Let's say I write Sanskrit So I will write 03, 3% So I should be away from Sanskrit girls And I should be away from Harry It is a fun calculator I hope you will enjoy using it The next program I want to show you is face recognition Which uses the Harcascade algorithm It tells you where the face is It is a face detection algorithm So in Robert Downey Jr's face It will tell you where the face is hidden So I will run it for 1.jpg file You can run it on your favorite file So I have run it And after running it, it detected all the faces So I can run it for different images It doesn't have to work for one image It is working for different images It was a fun program to make The next project is Flappy Bird Game Which is probably someone who has not played this game It is a very good game We play it a lot on our phones But you can play it on your computer You can play it on your computer I can play it I am playing it It will be fun to play it So the 5th, last but not the least I have made a lot of projects I will show you how to make a snake game As you can see It is black snake with red food I can make it better I made logic here I am playing it I will break the high score of 90 I can make a lot of scores I am a very hardcore gamer I have made a score of 90 I hope I don't get out I made a score of 100 It is fun to play a game made by your hands I just want to tell you In the upcoming videos, I will tell you I will tell you the things I am going to do And it will be fun for you Because we will not only make these projects But we will convert them into reality I am going to give you all these codes I want you to run all these codes Run them or not But run them All the modules I have imported You have to install them with pip If not now, then we will go to modules Install pip and run them again You will not have any problem in running them If you have any problem, then we will gradually progress You have to come back to this program And see what was the mistake Can I fix it or run it again It is not like you have to do everything in this video I hope you will enjoy these 500 programs Keep them with you As we will learn more things I am giving you all these programs All the programs Which I have shown you They are available here You can run them on your machine And you will enjoy it Some of them are using windows api You can run it in mac or linux But we will do this when we go further I will tell you all these programs You will enjoy them But don't try to recreate them Don't think that you have learned so much And you want to change them You will get a little frustration Because you will try to do things you don't know So we will make all these programs I will show you all Keep this journey going You will enjoy it You will get the link to this program in the description One more thing I want to tell you If you haven't accessed the Python 100 days of Goat playlist Then you can access it now Because there will be a lot of videos in this playlist If you don't bookmark this playlist Then you might miss some days So bookmark it We will do a lot of fun things in the coming days Till then take care of yourself And I will see you next time"
+}

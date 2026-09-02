@@ -1,0 +1,9 @@
+I'd be happy to help you with your web development course.
+
+So, you're wondering about Python? Well, in our course, we cover Python as a fundamental programming language for web development.
+
+In video 1, titled "Introduction to Programming & Python", we introduce Python and its features. At the beginning of the video (at around 34 seconds), I explain that Python is a dynamically typed object-oriented programming language. It's a versatile language used by many developers for various purposes, including web development.
+
+If you're new to Python, I'd recommend watching this video first. You'll get a solid introduction to what Python is and why it's widely used in the industry.
+
+Let me know if you have any more questions or if there's anything else I can help you with!

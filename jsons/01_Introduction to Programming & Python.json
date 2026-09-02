@@ -1,0 +1,2063 @@
+{
+    "chunks": [
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 0.0,
+            "end": 2.0,
+            "text": " Welcome to 100 days of code"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 2.0,
+            "end": 7.0,
+            "text": " In 100 days of code, we are going to learn Python programming from zero to job ready"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 7.0,
+            "end": 10.0,
+            "text": " If you have given 100 days of your dedicated time"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 10.0,
+            "end": 13.0,
+            "text": " I will tell you in a bite size lesson"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 13.0,
+            "end": 17.0,
+            "text": " Python programming, we will take it to the zeroes and take it to the advanced"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 17.0,
+            "end": 20.0,
+            "text": " In the beginning, you will feel how easy it is"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 20.0,
+            "end": 24.0,
+            "text": " It is a child's play Python and after that, the videos will go forward"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 24.0,
+            "end": 27.0,
+            "text": " We will go to day 100, we will raise the bar like anything"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 27.0,
+            "end": 29.0,
+            "text": " We will be working on complex projects"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 29.0,
+            "end": 32.0,
+            "text": " We will be working on things that are used in the industry"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 32.0,
+            "end": 34.0,
+            "text": " So it will be a lot of fun and excitement"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 34.0,
+            "end": 37.0,
+            "text": " Python is a dynamically typed object-oriented programming language"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 37.0,
+            "end": 40.0,
+            "text": " Which was made by Guido Van Rossum in 1991"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 40.0,
+            "end": 43.0,
+            "text": " Guido Van Rossum was watching a show called Monty Python Circus on TV"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 43.0,
+            "end": 45.0,
+            "text": " When he was working on this language"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 45.0,
+            "end": 48.0,
+            "text": " And he thought why not give it a name, I will give it to Python"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 48.0,
+            "end": 50.0,
+            "text": " And since then, it has been named Python"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 50.0,
+            "end": 53.0,
+            "text": " In this course, we will do a lot of practice along with theory"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 53.0,
+            "end": 55.0,
+            "text": " A lot of exercises and quizzes are going to come in this"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 55.0,
+            "end": 58.0,
+            "text": " And a lot of challenges are waiting for you"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 58.0,
+            "end": 61.0,
+            "text": " So that's why I will enter my computer button"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 61.0,
+            "end": 65.0,
+            "text": " And I will introduce you to the strange and unique nature of Python"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 65.0,
+            "end": 67.0,
+            "text": " So right now, you like this video and subscribe"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 67.0,
+            "end": 70.0,
+            "text": " And turn on the notifications so that you don't miss any day"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 70.0,
+            "end": 75.0,
+            "text": " And every day you get notifications because it is very easy to get lost in the sea of YouTube"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 75.0,
+            "end": 79.0,
+            "text": " So you all have to accept the 100 days of code challenge right now"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 79.0,
+            "end": 80.0,
+            "text": " Write in the comment section below"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 80.0,
+            "end": 82.0,
+            "text": " I accept the 100 days of code challenge"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 82.0,
+            "end": 83.0,
+            "text": " Let's get started"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 88.0,
+            "end": 93.0,
+            "text": " So I have come to Google Chrome browser"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 93.0,
+            "end": 98.0,
+            "text": " And I will tell you how to download and install Python"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 98.0,
+            "end": 102.0,
+            "text": " So as soon as you write Python, you will come to python.org"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 102.0,
+            "end": 107.0,
+            "text": " And here, according to your platform, the latest download of Python will be available"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 107.0,
+            "end": 109.0,
+            "text": " As you can see, I am in Mac OS"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 109.0,
+            "end": 113.0,
+            "text": " So when Python 3.11 is giving me for Mac OS"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 113.0,
+            "end": 115.0,
+            "text": " So I will download it"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 115.0,
+            "end": 120.0,
+            "text": " And as soon as it is downloaded, you can download your favorite IDE, VS code or anything"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 120.0,
+            "end": 123.0,
+            "text": " To use Python in your computer"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 123.0,
+            "end": 125.0,
+            "text": " But I will use the Wraplet"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 125.0,
+            "end": 129.0,
+            "text": " And you can use Wraplet"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 129.0,
+            "end": 131.0,
+            "text": " This is a collaborative browser-based IDE"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 131.0,
+            "end": 135.0,
+            "text": " I am using it because I find it very easy to use"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 135.0,
+            "end": 140.0,
+            "text": " And along with that, it will be very easy for me to give you code"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 140.0,
+            "end": 144.0,
+            "text": " So here I will sign in from my Google account"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 144.0,
+            "end": 147.0,
+            "text": " And after that, I will be redirected to this screen"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 147.0,
+            "end": 150.0,
+            "text": " So as you can see, all my Wraplet are here"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 150.0,
+            "end": 153.0,
+            "text": " Wraplet basically gives you an online way to write code"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 153.0,
+            "end": 158.0,
+            "text": " If your computer is not fast or if you have a problem with your computer"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 158.0,
+            "end": 161.0,
+            "text": " Your computer lags a lot"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 161.0,
+            "end": 163.0,
+            "text": " So you just need a browser tab"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 163.0,
+            "end": 165.0,
+            "text": " And you can follow me"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 165.0,
+            "end": 170.0,
+            "text": " And because I will use Wraplet, it will be easy for you to follow me"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 170.0,
+            "end": 173.0,
+            "text": " So here I will go to My Wraplet quickly"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 173.0,
+            "end": 175.0,
+            "text": " I have already made some Wraplet"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 175.0,
+            "end": 180.0,
+            "text": " And I will scroll down and go to the Python 0.2 job-ready folder"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 180.0,
+            "end": 184.0,
+            "text": " And here is our Day 1 Wraplet"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 184.0,
+            "end": 190.0,
+            "text": " So as you can see, my video will be shown in the floating pane"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 190.0,
+            "end": 195.0,
+            "text": " And here will be our content and here we will write code"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 195.0,
+            "end": 198.0,
+            "text": " So I will keep the console here"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 198.0,
+            "end": 203.0,
+            "text": " And after that, I will show you the code"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 203.0,
+            "end": 206.0,
+            "text": " I will close this and write the code"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 206.0,
+            "end": 208.0,
+            "text": " And here will be the output of the code"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 208.0,
+            "end": 211.0,
+            "text": " So I will make a new file quickly"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 211.0,
+            "end": 215.0,
+            "text": " So I will click here and open the main.py"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 215.0,
+            "end": 217.0,
+            "text": " And I want to open the main.py here"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 217.0,
+            "end": 220.0,
+            "text": " So you can see how easy it is to use"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 220.0,
+            "end": 223.0,
+            "text": " Here will be the tutorial, here we will write the code"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 223.0,
+            "end": 225.0,
+            "text": " Here will be the output"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 225.0,
+            "end": 227.0,
+            "text": " And here will be our video"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 227.0,
+            "end": 229.0,
+            "text": " Which you can watch"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 229.0,
+            "end": 231.0,
+            "text": " I have put a demo video here"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 231.0,
+            "end": 234.0,
+            "text": " You will get to see our Day 1 video"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 234.0,
+            "end": 237.0,
+            "text": " If you are wondering how I did this"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 237.0,
+            "end": 239.0,
+            "text": " I will give you a link in the description"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 239.0,
+            "end": 241.0,
+            "text": " You will get to know how to do this"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 241.0,
+            "end": 243.0,
+            "text": " In case a teacher is watching this"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 243.0,
+            "end": 245.0,
+            "text": " So now let's talk about Python"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 245.0,
+            "end": 249.0,
+            "text": " But before that, I would like to talk about programming"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 249.0,
+            "end": 251.0,
+            "text": " So as you can see"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 251.0,
+            "end": 254.0,
+            "text": " Programming is a way for us to tell computers what to do"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 254.0,
+            "end": 259.0,
+            "text": " And we do that with the help of programming"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 259.0,
+            "end": 261.0,
+            "text": " If you have a calculator"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 261.0,
+            "end": 263.0,
+            "text": " So the calculator has been programmed"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 263.0,
+            "end": 265.0,
+            "text": " In such a way that we can tell it"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 265.0,
+            "end": 267.0,
+            "text": " How much is 5 plus 9"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 267.0,
+            "end": 269.0,
+            "text": " Now you will say 5 plus 9 is 14"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 269.0,
+            "end": 270.0,
+            "text": " I know this"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 270.0,
+            "end": 272.0,
+            "text": " So why should I use calculator"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 272.0,
+            "end": 276.0,
+            "text": " But how about 23453453 multiplied by 56456"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 276.0,
+            "end": 278.0,
+            "text": " You can calculate this"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 278.0,
+            "end": 280.0,
+            "text": " But you can't do it as fast as a computer"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 280.0,
+            "end": 282.0,
+            "text": " So in this case, a good communication"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 282.0,
+            "end": 284.0,
+            "text": " Communication becomes very important with a computer"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 284.0,
+            "end": 286.0,
+            "text": " And for this we use programming"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 286.0,
+            "end": 288.0,
+            "text": " The way we speak in Hindi"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 288.0,
+            "end": 290.0,
+            "text": " You must be speaking in English with your friends"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 290.0,
+            "end": 292.0,
+            "text": " You must be speaking in Spanish"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 292.0,
+            "end": 294.0,
+            "text": " Or you must be speaking in any other language"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 294.0,
+            "end": 298.0,
+            "text": " We use programming languages to talk to the computer"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 298.0,
+            "end": 302.0,
+            "text": " Like Python, C, C++, Java"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 302.0,
+            "end": 304.0,
+            "text": " And many more programming languages in the market"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 304.0,
+            "end": 307.0,
+            "text": " But this course is going to be dedicated to Python"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 307.0,
+            "end": 310.0,
+            "text": " And this is because Python is very easy"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 310.0,
+            "end": 313.0,
+            "text": " According to me, Python is the easiest to learn programming language"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 313.0,
+            "end": 315.0,
+            "text": " Because when you learn Python"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 315.0,
+            "end": 317.0,
+            "text": " And then you start doing things"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 317.0,
+            "end": 319.0,
+            "text": " Then you enjoy a different level"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 319.0,
+            "end": 321.0,
+            "text": " Python is dynamically typed"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 321.0,
+            "end": 323.0,
+            "text": " It is a general purpose programming language"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 323.0,
+            "end": 325.0,
+            "text": " Which supports the object-oriented paradigm"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 325.0,
+            "end": 327.0,
+            "text": " And also supports the functional approach"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 327.0,
+            "end": 329.0,
+            "text": " Now if you don't know what these two are"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 329.0,
+            "end": 331.0,
+            "text": " Then we will learn in this course"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 331.0,
+            "end": 333.0,
+            "text": " Now it is interpreted"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 333.0,
+            "end": 335.0,
+            "text": " It is a high-level programming language"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 335.0,
+            "end": 338.0,
+            "text": " And we started working on it in 1989"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 338.0,
+            "end": 340.0,
+            "text": " Many people ask"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 340.0,
+            "end": 342.0,
+            "text": " When was Python developed?"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 342.0,
+            "end": 344.0,
+            "text": " It was not a single day or a single year"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 344.0,
+            "end": 346.0,
+            "text": " From 1989 to over the period of years"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 346.0,
+            "end": 348.0,
+            "text": " Gwido Hanrausam created it"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 348.0,
+            "end": 350.0,
+            "text": " So you will see it in 1991"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 350.0,
+            "end": 352.0,
+            "text": " You will see it in 1992"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 352.0,
+            "end": 354.0,
+            "text": " You will see it in 1989"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 354.0,
+            "end": 356.0,
+            "text": " But the truth is"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 356.0,
+            "end": 358.0,
+            "text": " It was created over the period of years"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 358.0,
+            "end": 360.0,
+            "text": " What are the features of Python?"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 360.0,
+            "end": 362.0,
+            "text": " The first thing I will tell you is"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 362.0,
+            "end": 364.0,
+            "text": " It is simple"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 364.0,
+            "end": 366.0,
+            "text": " It is the simplest programming language"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 366.0,
+            "end": 368.0,
+            "text": " It is a great feature of Python"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 368.0,
+            "end": 370.0,
+            "text": " And then you can do anything with it"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 370.0,
+            "end": 372.0,
+            "text": " It is platform-independent"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 372.0,
+            "end": 374.0,
+            "text": " And it means"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 374.0,
+            "end": 376.0,
+            "text": " If you write code in Windows"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 376.0,
+            "end": 378.0,
+            "text": " Then you can run it in Linux"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 378.0,
+            "end": 380.0,
+            "text": " And if you write code in Mac"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 380.0,
+            "end": 382.0,
+            "text": " Then you can run it in Windows"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 382.0,
+            "end": 384.0,
+            "text": " You can run it in KCB"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 384.0,
+            "end": 386.0,
+            "text": " I am writing code in my browser"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 386.0,
+            "end": 388.0,
+            "text": " It doesn't matter if it is in Mac"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 388.0,
+            "end": 390.0,
+            "text": " Because I am using the Rapplet platform"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 390.0,
+            "end": 392.0,
+            "text": " But if I write code in my Mac"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 392.0,
+            "end": 394.0,
+            "text": " Then you can run it anywhere"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 394.0,
+            "end": 396.0,
+            "text": " It becomes very easy for you"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 396.0,
+            "end": 398.0,
+            "text": " To run it anywhere"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 398.0,
+            "end": 400.0,
+            "text": " For you"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 400.0,
+            "end": 402.0,
+            "text": " It is a great feature"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 402.0,
+            "end": 404.0,
+            "text": " You don't have to pay to use Python"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 404.0,
+            "end": 406.0,
+            "text": " Which is amazing"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 406.0,
+            "end": 408.0,
+            "text": " And Python provides very big library support"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 408.0,
+            "end": 410.0,
+            "text": " So many people use this simple language"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 410.0,
+            "end": 412.0,
+            "text": " Because of which"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 412.0,
+            "end": 414.0,
+            "text": " Everyone is working on some project"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 414.0,
+            "end": 416.0,
+            "text": " And the project of all these people"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 416.0,
+            "end": 418.0,
+            "text": " The code written by them"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 418.0,
+            "end": 420.0,
+            "text": " The hard work written by them"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 420.0,
+            "end": 422.0,
+            "text": " Maybe someone has written something"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 422.0,
+            "end": 424.0,
+            "text": " And you can use it in a minute"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 424.0,
+            "end": 426.0,
+            "text": " It is a great feature"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 426.0,
+            "end": 428.0,
+            "text": " If I talk about the learning point of view"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 428.0,
+            "end": 430.0,
+            "text": " If I talk about the error point of view"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 430.0,
+            "end": 432.0,
+            "text": " Then I will say"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 432.0,
+            "end": 434.0,
+            "text": " That the error you are getting today"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 434.0,
+            "end": 436.0,
+            "text": " If someone got it 10 years ago"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 436.0,
+            "end": 438.0,
+            "text": " And they have broken it"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 438.0,
+            "end": 440.0,
+            "text": " And put it on a website like Stackoverflow"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 440.0,
+            "end": 442.0,
+            "text": " It will become very easy for you"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 442.0,
+            "end": 444.0,
+            "text": " It will become very easy for you"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 444.0,
+            "end": 446.0,
+            "text": " To solve that problem"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 446.0,
+            "end": 448.0,
+            "text": " Python provides a very big library"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 448.0,
+            "end": 450.0,
+            "text": " Support"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 450.0,
+            "end": 452.0,
+            "text": " And then"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 452.0,
+            "end": 454.0,
+            "text": " It is very easy to integrate"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 454.0,
+            "end": 456.0,
+            "text": " With other programming languages"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 456.0,
+            "end": 458.0,
+            "text": " Like C language"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 458.0,
+            "end": 460.0,
+            "text": " It can be linked very well"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 460.0,
+            "end": 462.0,
+            "text": " Then there are some applications"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 462.0,
+            "end": 464.0,
+            "text": " Which I have written here"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 464.0,
+            "end": 466.0,
+            "text": " You can work on database"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 466.0,
+            "end": 468.0,
+            "text": " Data science, machine learning"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 468.0,
+            "end": 470.0,
+            "text": " You can make web applications"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 470.0,
+            "end": 472.0,
+            "text": " With database"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 472.0,
+            "end": 474.0,
+            "text": " And to move your business"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 474.0,
+            "end": 476.0,
+            "text": " You can do many complex"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 476.0,
+            "end": 478.0,
+            "text": " Mathematical operations"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 478.0,
+            "end": 480.0,
+            "text": " I am using wrapnet here"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 480.0,
+            "end": 482.0,
+            "text": " Because it is very easy"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 482.0,
+            "end": 484.0,
+            "text": " To share the code"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 484.0,
+            "end": 486.0,
+            "text": " It is also very easy to install"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 486.0,
+            "end": 488.0,
+            "text": " Python locally"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 488.0,
+            "end": 490.0,
+            "text": " You can install it on any platform"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 490.0,
+            "end": 492.0,
+            "text": " You can install it"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 492.0,
+            "end": 494.0,
+            "text": " Like any other game"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 494.0,
+            "end": 496.0,
+            "text": " And"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 496.0,
+            "end": 498.0,
+            "text": " If you are in Mac, then installation is as simple"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 498.0,
+            "end": 500.0,
+            "text": " As you are seeing in your computer screen"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 500.0,
+            "end": 502.0,
+            "text": " But if you are in Windows"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 502.0,
+            "end": 504.0,
+            "text": " Then you can install python"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 504.0,
+            "end": 506.0,
+            "text": " And remember one thing"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 506.0,
+            "end": 508.0,
+            "text": " You have to check path variable"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 508.0,
+            "end": 510.0,
+            "text": " At python 3.0"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 510.0,
+            "end": 512.0,
+            "text": " Which is the version"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 512.0,
+            "end": 514.0,
+            "text": " Which comes after path"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 514.0,
+            "end": 516.0,
+            "text": " Because if you don't check it"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 516.0,
+            "end": 518.0,
+            "text": " Then you may not be able to"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 518.0,
+            "end": 520.0,
+            "text": " Use python from terminal"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 520.0,
+            "end": 522.0,
+            "text": " So if I open my terminal"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 522.0,
+            "end": 524.0,
+            "text": " Whether you are in Windows"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 524.0,
+            "end": 526.0,
+            "text": " Or anywhere else"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 526.0,
+            "end": 528.0,
+            "text": " Then you can see here"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 528.0,
+            "end": 530.0,
+            "text": " That python is not found"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 530.0,
+            "end": 532.0,
+            "text": " So we have to solve this problem"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 532.0,
+            "end": 534.0,
+            "text": " If you are in Linux or Mac"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 534.0,
+            "end": 536.0,
+            "text": " Then you will see this error"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 536.0,
+            "end": 538.0,
+            "text": " If you are in python 3.0"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 538.0,
+            "end": 540.0,
+            "text": " Then you will see"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 540.0,
+            "end": 542.0,
+            "text": " Python's wrapper"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 542.0,
+            "end": 544.0,
+            "text": " Wrapper is read, evaluate, print"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 544.0,
+            "end": 546.0,
+            "text": " And here you can"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 546.0,
+            "end": 548.0,
+            "text": " Use python as a calculator"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 548.0,
+            "end": 550.0,
+            "text": " You can use"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 550.0,
+            "end": 552.0,
+            "text": " These commands"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 552.0,
+            "end": 554.0,
+            "text": " If you don't know"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 554.0,
+            "end": 556.0,
+            "text": " What is print statement"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 556.0,
+            "end": 558.0,
+            "text": " We are going to read it"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 558.0,
+            "end": 560.0,
+            "text": " But I want to slowly"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 560.0,
+            "end": 562.0,
+            "text": " Digest things"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 562.0,
+            "end": 564.0,
+            "text": " So if you want to get out of"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 564.0,
+            "end": 566.0,
+            "text": " Rappel"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 566.0,
+            "end": 568.0,
+            "text": " Then you can exit"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 568.0,
+            "end": 570.0,
+            "text": " And you will come out"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 570.0,
+            "end": 572.0,
+            "text": " But you know what I am going to do"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 572.0,
+            "end": 574.0,
+            "text": " I am going to use"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 574.0,
+            "end": 576.0,
+            "text": " Rapplet"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 576.0,
+            "end": 578.0,
+            "text": " And in Rapplet"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 578.0,
+            "end": 580.0,
+            "text": " Whatever files and"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 580.0,
+            "end": 582.0,
+            "text": " Projects we make here"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 582.0,
+            "end": 584.0,
+            "text": " Is called Rapplet"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 584.0,
+            "end": 586.0,
+            "text": " And this name came from here"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 586.0,
+            "end": 588.0,
+            "text": " Read, evaluate, print loop"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 588.0,
+            "end": 590.0,
+            "text": " Which is in Python"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 590.0,
+            "end": 592.0,
+            "text": " So if I write"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 592.0,
+            "end": 594.0,
+            "text": " Hello world"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 594.0,
+            "end": 596.0,
+            "text": " And click on run"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 596.0,
+            "end": 598.0,
+            "text": " It is so easy to run it"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 598.0,
+            "end": 600.0,
+            "text": " I want to see its output"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 600.0,
+            "end": 602.0,
+            "text": " And its output"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 602.0,
+            "end": 604.0,
+            "text": " Has come"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 604.0,
+            "end": 606.0,
+            "text": " Hello world"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 606.0,
+            "end": 608.0,
+            "text": " If I print 7"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 608.0,
+            "end": 610.0,
+            "text": " Or 5 and run it"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 610.0,
+            "end": 612.0,
+            "text": " Then it will run"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 612.0,
+            "end": 614.0,
+            "text": " And I will see 5"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 614.0,
+            "end": 616.0,
+            "text": " So basically I am writing"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 616.0,
+            "end": 618.0,
+            "text": " Code here but"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 618.0,
+            "end": 620.0,
+            "text": " I am on Rapplet's servers"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 620.0,
+            "end": 622.0,
+            "text": " And I am getting its output"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 622.0,
+            "end": 624.0,
+            "text": " Even if my computer is slow"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 624.0,
+            "end": 626.0,
+            "text": " Then I can run Python"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 626.0,
+            "end": 628.0,
+            "text": " And I can make new files"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 628.0,
+            "end": 630.0,
+            "text": " Or open new files"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 630.0,
+            "end": 632.0,
+            "text": " And"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 632.0,
+            "end": 634.0,
+            "text": " Read this text"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 634.0,
+            "end": 636.0,
+            "text": " Watch this video"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 636.0,
+            "end": 638.0,
+            "text": " Where ever I want to"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 638.0,
+            "end": 640.0,
+            "text": " Or if I don't want to watch this video"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 640.0,
+            "end": 642.0,
+            "text": " I am practicing something"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 642.0,
+            "end": 644.0,
+            "text": " So make it small"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 644.0,
+            "end": 646.0,
+            "text": " And park it"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 646.0,
+            "end": 648.0,
+            "text": " And whenever you want to"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 648.0,
+            "end": 650.0,
+            "text": " Make it big"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 650.0,
+            "end": 652.0,
+            "text": " Then you will have a great experience"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 652.0,
+            "end": 654.0,
+            "text": " So I will request you"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 654.0,
+            "end": 656.0,
+            "text": " That everyone"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 656.0,
+            "end": 658.0,
+            "text": " The playlist of Python"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 658.0,
+            "end": 660.0,
+            "text": " Which I am going to make"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 660.0,
+            "end": 662.0,
+            "text": " Please access it"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 662.0,
+            "end": 664.0,
+            "text": " Like the video and subscribe the channel"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 664.0,
+            "end": 666.0,
+            "text": " So that you don't miss any day"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 666.0,
+            "end": 668.0,
+            "text": " I don't want you to miss any day"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 668.0,
+            "end": 670.0,
+            "text": " In this journey of Python"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 670.0,
+            "end": 672.0,
+            "text": " Please access the playlist"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 672.0,
+            "end": 674.0,
+            "text": " Bookmark it and save it"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 674.0,
+            "end": 676.0,
+            "text": " And I will meet you guys in the next video"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 676.0,
+            "end": 678.0,
+            "text": " Where we will talk about more good things"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 678.0,
+            "end": 680.0,
+            "text": " And day 2 is going to be dedicated"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 680.0,
+            "end": 682.0,
+            "text": " To some very interesting things"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 682.0,
+            "end": 684.0,
+            "text": " So you guys wait for day 2"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 684.0,
+            "end": 686.0,
+            "text": " And we will meet after that"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 686.0,
+            "end": 688.0,
+            "text": " That's it for this video guys"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 688.0,
+            "end": 690.0,
+            "text": " Thank you so much for watching this video"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 690.0,
+            "end": 692.0,
+            "text": " And I will see you next time"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 704.0,
+            "end": 706.0,
+            "text": " Bye"
+        }
+    ],
+    "text": " Welcome to 100 days of code In 100 days of code, we are going to learn Python programming from zero to job ready If you have given 100 days of your dedicated time I will tell you in a bite size lesson Python programming, we will take it to the zeroes and take it to the advanced In the beginning, you will feel how easy it is It is a child's play Python and after that, the videos will go forward We will go to day 100, we will raise the bar like anything We will be working on complex projects We will be working on things that are used in the industry So it will be a lot of fun and excitement Python is a dynamically typed object-oriented programming language Which was made by Guido Van Rossum in 1991 Guido Van Rossum was watching a show called Monty Python Circus on TV When he was working on this language And he thought why not give it a name, I will give it to Python And since then, it has been named Python In this course, we will do a lot of practice along with theory A lot of exercises and quizzes are going to come in this And a lot of challenges are waiting for you So that's why I will enter my computer button And I will introduce you to the strange and unique nature of Python So right now, you like this video and subscribe And turn on the notifications so that you don't miss any day And every day you get notifications because it is very easy to get lost in the sea of YouTube So you all have to accept the 100 days of code challenge right now Write in the comment section below I accept the 100 days of code challenge Let's get started So I have come to Google Chrome browser And I will tell you how to download and install Python So as soon as you write Python, you will come to python.org And here, according to your platform, the latest download of Python will be available As you can see, I am in Mac OS So when Python 3.11 is giving me for Mac OS So I will download it And as soon as it is downloaded, you can download your favorite IDE, VS code or anything To use Python in your computer But I will use the Wraplet And you can use Wraplet This is a collaborative browser-based IDE I am using it because I find it very easy to use And along with that, it will be very easy for me to give you code So here I will sign in from my Google account And after that, I will be redirected to this screen So as you can see, all my Wraplet are here Wraplet basically gives you an online way to write code If your computer is not fast or if you have a problem with your computer Your computer lags a lot So you just need a browser tab And you can follow me And because I will use Wraplet, it will be easy for you to follow me So here I will go to My Wraplet quickly I have already made some Wraplet And I will scroll down and go to the Python 0.2 job-ready folder And here is our Day 1 Wraplet So as you can see, my video will be shown in the floating pane And here will be our content and here we will write code So I will keep the console here And after that, I will show you the code I will close this and write the code And here will be the output of the code So I will make a new file quickly So I will click here and open the main.py And I want to open the main.py here So you can see how easy it is to use Here will be the tutorial, here we will write the code Here will be the output And here will be our video Which you can watch I have put a demo video here You will get to see our Day 1 video If you are wondering how I did this I will give you a link in the description You will get to know how to do this In case a teacher is watching this So now let's talk about Python But before that, I would like to talk about programming So as you can see Programming is a way for us to tell computers what to do And we do that with the help of programming If you have a calculator So the calculator has been programmed In such a way that we can tell it How much is 5 plus 9 Now you will say 5 plus 9 is 14 I know this So why should I use calculator But how about 23453453 multiplied by 56456 You can calculate this But you can't do it as fast as a computer So in this case, a good communication Communication becomes very important with a computer And for this we use programming The way we speak in Hindi You must be speaking in English with your friends You must be speaking in Spanish Or you must be speaking in any other language We use programming languages to talk to the computer Like Python, C, C++, Java And many more programming languages in the market But this course is going to be dedicated to Python And this is because Python is very easy According to me, Python is the easiest to learn programming language Because when you learn Python And then you start doing things Then you enjoy a different level Python is dynamically typed It is a general purpose programming language Which supports the object-oriented paradigm And also supports the functional approach Now if you don't know what these two are Then we will learn in this course Now it is interpreted It is a high-level programming language And we started working on it in 1989 Many people ask When was Python developed? It was not a single day or a single year From 1989 to over the period of years Gwido Hanrausam created it So you will see it in 1991 You will see it in 1992 You will see it in 1989 But the truth is It was created over the period of years What are the features of Python? The first thing I will tell you is It is simple It is the simplest programming language It is a great feature of Python And then you can do anything with it It is platform-independent And it means If you write code in Windows Then you can run it in Linux And if you write code in Mac Then you can run it in Windows You can run it in KCB I am writing code in my browser It doesn't matter if it is in Mac Because I am using the Rapplet platform But if I write code in my Mac Then you can run it anywhere It becomes very easy for you To run it anywhere For you It is a great feature You don't have to pay to use Python Which is amazing And Python provides very big library support So many people use this simple language Because of which Everyone is working on some project And the project of all these people The code written by them The hard work written by them Maybe someone has written something And you can use it in a minute It is a great feature If I talk about the learning point of view If I talk about the error point of view Then I will say That the error you are getting today If someone got it 10 years ago And they have broken it And put it on a website like Stackoverflow It will become very easy for you It will become very easy for you To solve that problem Python provides a very big library Support And then It is very easy to integrate With other programming languages Like C language It can be linked very well Then there are some applications Which I have written here You can work on database Data science, machine learning You can make web applications With database And to move your business You can do many complex Mathematical operations I am using wrapnet here Because it is very easy To share the code It is also very easy to install Python locally You can install it on any platform You can install it Like any other game And If you are in Mac, then installation is as simple As you are seeing in your computer screen But if you are in Windows Then you can install python And remember one thing You have to check path variable At python 3.0 Which is the version Which comes after path Because if you don't check it Then you may not be able to Use python from terminal So if I open my terminal Whether you are in Windows Or anywhere else Then you can see here That python is not found So we have to solve this problem If you are in Linux or Mac Then you will see this error If you are in python 3.0 Then you will see Python's wrapper Wrapper is read, evaluate, print And here you can Use python as a calculator You can use These commands If you don't know What is print statement We are going to read it But I want to slowly Digest things So if you want to get out of Rappel Then you can exit And you will come out But you know what I am going to do I am going to use Rapplet And in Rapplet Whatever files and Projects we make here Is called Rapplet And this name came from here Read, evaluate, print loop Which is in Python So if I write Hello world And click on run It is so easy to run it I want to see its output And its output Has come Hello world If I print 7 Or 5 and run it Then it will run And I will see 5 So basically I am writing Code here but I am on Rapplet's servers And I am getting its output Even if my computer is slow Then I can run Python And I can make new files Or open new files And Read this text Watch this video Where ever I want to Or if I don't want to watch this video I am practicing something So make it small And park it And whenever you want to Make it big Then you will have a great experience So I will request you That everyone The playlist of Python Which I am going to make Please access it Like the video and subscribe the channel So that you don't miss any day I don't want you to miss any day In this journey of Python Please access the playlist Bookmark it and save it And I will meet you guys in the next video Where we will talk about more good things And day 2 is going to be dedicated To some very interesting things So you guys wait for day 2 And we will meet after that That's it for this video guys Thank you so much for watching this video And I will see you next time Bye"
+}
